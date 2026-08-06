@@ -48,3 +48,8 @@ I have 3+ years of experience in the Web3 ecosystem, specializing in crypto rese
 ---
 
 ⭐ Always exploring new opportunities in Web3, blockchain innovation, and decentralized technologies.
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,javascript,nodejs,python&theme=dark" />
+</p>
