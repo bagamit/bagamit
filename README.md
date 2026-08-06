@@ -77,3 +77,6 @@ I have 3+ years of experience in the Web3 ecosystem, specializing in crypto rese
 | 📚 Crypto Research | Blockchain and ecosystem research |
 | 📝 Content Portfolio | Crypto and Web3 content |
 | 👥 Community Growth | Community building and growth strategies |
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bagamit&style=for-the-badge&color=blue" />
+</p>
