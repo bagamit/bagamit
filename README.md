@@ -1,44 +1,40 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=220&section=header&text=Amit%20Bag&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web3%20Explorer%20|%20Crypto%20Researcher%20|%20Content%20Creator&descAlignY=58" />
-</p># Hi 👋 I'm Amit
+# Hi 👋 I'm Amit Bag
 
-## 🚀 About Me
+### 🌐 Web3 Researcher | Crypto Analyst | Community Manager | Content Creator
 
-🌐 Web3 Explorer
-
-🪙 Crypto Content Creator
-
-📚 Learning Blockchain & GitHub
-
-💡 Passionate about Web3 and Open Source
+I have 3+ years of experience in the Web3 ecosystem, specializing in crypto research, community management, growth marketing, content creation, and blockchain ecosystem development.
 
 ---
 
-## 🛠 Skills
+## 🚀 Expertise
 
-- Crypto Research
-- Web3
-- Content Creation
-- Community Building
-- Git & GitHub (Learning)
-
----
-
-## 🎯 Goals
-
-- Contribute to Open Source
-- Build Web3 Projects
-- Learn Smart Contracts
-- Grow as a Blockchain Developer
+- Web3 Research
+- Crypto Market Analysis
+- Community Management
+- Growth Marketing
+- Content Strategy
+- Airdrop & Ecosystem Research
+- Blockchain Projects
 
 ---
 
-## 📫 Connect with Me
+## 🌍 Focus Areas
 
-- X (Twitter): https://x.com/BagAmit001
-- LinkedIn: www.linkedin.com/in/amit-bag-2a377a329
+- DeFi
+- TON Ecosystem
+- Ethereum
+- Layer 2
+- AI × Web3
+- RWA
+- NFTs
 
-⭐ Thanks for visiting my profile!
-## 👀 Profile Views
+---
 
-![](https://komarev.com/ghpvc/?username=bagamit&label=Profile%20Views&color=blue&style=for-the-badge)
+## 📫 Connect With Me
+
+- **X (Twitter):** https://x.com/BagAmit001
+- **LinkedIn:** https://linkedin.com/in/amit-bag-2a377a329
+
+---
+
+⭐ Always exploring new opportunities in Web3, blockchain innovation, and decentralized technologies.
