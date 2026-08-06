@@ -34,11 +34,17 @@ I have 3+ years of experience in the Web3 ecosystem, specializing in crypto rese
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
-- **X (Twitter):** https://x.com/BagAmit001
-- **LinkedIn:** https://linkedin.com/in/amit-bag-2a377a329
+<p align="left">
+<a href="https://x.com/BagAmit001">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
 
+<a href="https://linkedin.com/in/amit-bag-2a377a329">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
 ---
 
 ⭐ Always exploring new opportunities in Web3, blockchain innovation, and decentralized technologies.
