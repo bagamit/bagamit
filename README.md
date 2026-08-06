@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Amit%20Bag&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Web3%20Researcher%20|%20Crypto%20Analyst%20|%20Community%20Manager&descAlignY=60" />
+  <a href="https://github.com/bagamit">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Web3+Researcher;Crypto+Analyst;Community+Manager;Content+Creator;Open+Source+Enthusiast;3%2B+Years+of+Web3+Experience" />
+  </a>
 </p># Hi 👋 I'm Amit Bag
 
 ### 🌐 Web3 Researcher | Crypto Analyst | Community Manager | Content Creator
