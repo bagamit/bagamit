@@ -1,4 +1,6 @@
-# Hi 👋 I'm Amit
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=220&section=header&text=Amit%20Bag&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web3%20Explorer%20|%20Crypto%20Researcher%20|%20Content%20Creator&descAlignY=58" />
+</p># Hi 👋 I'm Amit
 
 ## 🚀 About Me
 
