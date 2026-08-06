@@ -53,7 +53,13 @@ I have 3+ years of experience in the Web3 ecosystem, specializing in crypto rese
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,javascript,nodejs,python&theme=dark" />
 </p>
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=bagamit)
+## 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bagamit&theme=onedark&margin-w=15&margin-h=15" />
+</p>
+
+---
 ## 📊 GitHub Stats
 
 <p align="center">
