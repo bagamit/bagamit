@@ -39,3 +39,9 @@
 - LinkedIn: www.linkedin.com/in/amit-bag-2a377a329
 
 ⭐ Thanks for visiting my profile!
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bagamit&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagamit&layout=compact&theme=tokyonight" />
+</p>
