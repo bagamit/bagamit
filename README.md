@@ -39,12 +39,6 @@
 - LinkedIn: www.linkedin.com/in/amit-bag-2a377a329
 
 ⭐ Thanks for visiting my profile!
-## 📊 GitHub Stats
+## 👀 Profile Views
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bagamit&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagamit&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
+![](https://komarev.com/ghpvc/?username=bagamit&label=Profile%20Views&color=blue&style=for-the-badge)
