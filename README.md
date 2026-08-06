@@ -69,8 +69,11 @@ I have 3+ years of experience in the Web3 ecosystem, specializing in crypto rese
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=bagamit&theme=tokyonight&hide_border=true" />
 </p>
-## 🔥 Contribution Streak
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bagamit&theme=tokyonight&hide_border=true" />
-</p>
+| Project | Description |
+|---------|-------------|
+| 🌐 Web3 Portfolio | My Web3 journey and achievements |
+| 📚 Crypto Research | Blockchain and ecosystem research |
+| 📝 Content Portfolio | Crypto and Web3 content |
+| 👥 Community Growth | Community building and growth strategies |
