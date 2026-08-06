@@ -69,3 +69,8 @@ I have 3+ years of experience in the Web3 ecosystem, specializing in crypto rese
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=bagamit&theme=tokyonight&hide_border=true" />
 </p>
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bagamit&theme=tokyonight&hide_border=true" />
+</p>
